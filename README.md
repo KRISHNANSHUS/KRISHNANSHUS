@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on udemy
-- 📫 How to reach me mobile no 6266864880
+- 📫 Mobile NO. 9301174613
 
 <!---
 KRISHNANSHUS/KRISHNANSHUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
